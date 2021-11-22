@@ -1,0 +1,11 @@
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\bin\Release\net6.0\LuPerfect.Exceptions.deps.json
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\bin\Release\net6.0\LuPerfect.Exceptions.dll
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\bin\Release\net6.0\ref\LuPerfect.Exceptions.dll
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\bin\Release\net6.0\LuPerfect.Exceptions.pdb
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\obj\Release\net6.0\LuPerfect.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\obj\Release\net6.0\LuPerfect.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\obj\Release\net6.0\LuPerfect.Exceptions.AssemblyInfo.cs
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\obj\Release\net6.0\LuPerfect.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\obj\Release\net6.0\LuPerfect.Exceptions.dll
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\obj\Release\net6.0\ref\LuPerfect.Exceptions.dll
+C:\Users\Shop59\source\repos\LuPerfect.Exceptions\LuPerfect.Exceptions\obj\Release\net6.0\LuPerfect.Exceptions.pdb
